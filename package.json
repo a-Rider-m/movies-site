@@ -1,11 +1,19 @@
 {
-  "name": "c",
+  "name": "curso-api-rest-javascript-practico",
   "version": "1.0.0",
-  "description": "Sitio web para el curso practico de api rest con javascript",
+  "description": "Curso Práctico de Consumo de API REST con JavaScript",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@a-Rider-m",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/curso-api-rest-javascript-practico.git"
+  },
+  "author": "@juandc :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platzi/curso-api-rest-javascript-practico/issues"
+  },
+  "homepage": "https://github.com/platzi/curso-api-rest-javascript-practico#readme"
 }

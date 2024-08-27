@@ -1,2 +1,2 @@
-# movies-site
-Sitio web para el curso practico de api rest con javascript
+# curso-api-rest-javascript-practico
+Curso Práctico de Consumo de API REST con JavaScript
