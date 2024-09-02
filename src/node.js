@@ -24,7 +24,7 @@ const movieDetailScore = $('.movieDetail-score');
 
 //Sections
 const headerContainer = $('#header');
-const trendingContainer = $('#trendingPreview');
+const trendingPreviewSection = $('#trendingPreview');
 const categoriesPreviewContainer = $('#categoriesPreview');
 const genericListContainer = $('#genericList');
 const movieDetailContainer = $('#movieDetail');
